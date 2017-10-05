@@ -1,0 +1,26 @@
+
+header {
+	background-color: #f2f2f2;
+	padding: 10px;
+}
+
+.number {
+	color:#0db26b;
+	font-size: 25px;
+}
+
+.navbar-light {
+	background-color: white;
+	padding: 0px;
+
+}
+
+a {
+	font-size: 22px;
+}
+.jumbotron {
+	background-color: #72cba3;
+	color: white;
+	padding: 30px;
+}
+
