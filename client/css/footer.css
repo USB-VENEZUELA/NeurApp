@@ -1,0 +1,25 @@
+footer {
+	background-color: #72cba3;
+	padding: 2%;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 100%;
+}
+
+.telefono {
+	font-size: 150%;
+}
+
+.contenedor-derecho {
+	padding-top: 1%;
+}
+
+.facebook:hover {
+	text-decoration: none;
+	color: #F2F2F2;
+}
+
+.facebook {
+	text-decoration: none;
+	color: white;
+}
