@@ -1,0 +1,31 @@
+.titulo {
+	color: #0db26b;
+}
+
+.card {
+	margin: 10px;
+	background-color: whitesmoke;
+
+
+}
+
+.card-img-top {
+	padding: 20px;
+}
+
+.card-title {
+	font:normal normal normal 16px/1.4em raleway,sans-serif;
+	color:black;
+}
+
+.card-img-top {
+	padding: 8px;
+}
+.card-img-top:hover {
+	opacity: 0.35 ;
+	transition: opacity 0.4s ;
+}
+
+.card-body {
+	padding: 0;
+}
