@@ -1,46 +1,4 @@
 
-.container-fluid {
-	
-	padding: 0;
-}
-
-.titles  {
-	font: normal normal normal 15px/1.4em raleway,sans-serif;
-	color : #605E5E;
-}
-
-
-header {
-	background-color: #f2f2f2;
-	padding: 10px;
-}
-
-.number {
-	color:#0db26b;
-	font-size: 26px;
-}
-
-.navbar-light {
-	background-color: white;
-	padding: 0px;
-
-}
-
-li {
-	margin-left: 35px;
-}
-a {
-	font-size: 22px;
-}
-.jumbotron {
-	background-color: #72cba3;
-	color: white;
-	padding: 30px;
-}
-
-.i-telephone {
-	padding-top: 20px;
-}
 
 #map {
 	height: 400px;
