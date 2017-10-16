@@ -72,7 +72,7 @@ body {
 	font-family: 'Raleway', sans-serif;
 }
 
-.brian-title {
+.brain-title {
 	color: #0DB26B;
 }
 
@@ -96,13 +96,15 @@ body {
 
 .btn-neurofeedback {
 	width: 100%;
+	margin-bottom: 100px;
 }
 
-#aplicaciones {
+#gymnius1, #gymnius2 {
 	font-size: 16px;
 	color: #0db26b;
 }
 
-#aplicaciones:hover {
+#gymnius1:hover	, #gymnius2:hover {
 	text-decoration: none;
 }
+
