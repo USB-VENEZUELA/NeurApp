@@ -1,3 +1,15 @@
 .text {
 	color:#655e5e;
 }
+
+.jumbotron {
+	background-color: #72cba3;
+}
+
+.second-text {
+	color: black;
+}
+
+h2,h4 {
+	color: black;
+}
