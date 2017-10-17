@@ -8,16 +8,21 @@
 	font: normal normal normal 15px/1.4em raleway,sans-serif;
 	color : #605E5E;
 }
+.fa-map-marker {
+	color: #0db26b;
 
+} 
 
 header {
 	background-color: #f2f2f2;
-	padding: 10px;
+	padding-top: 10px;
 }
 
 .number {
 	color:#0db26b;
 	font-size: 26px;
+	font: normal normal normal 34px/1.4em raleway,sans-serif;
+
 }
 
 /* NAVBAR */
