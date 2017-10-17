@@ -31,7 +31,7 @@ li {
 	margin-left: 35px;
 }
 a {
-	font-size: 22px;
+	font-size: 18px;
 }
 
 /* JUMBOTRON */
@@ -43,7 +43,7 @@ a {
 
 /* FOOTER */ 
 footer {
-	background-color: #0DB26B;
+	background-color: #72cba3;
 	padding: 2%;
 	color: white;
 	font-family: 'Raleway', sans-serif;
