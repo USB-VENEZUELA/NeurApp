@@ -5,7 +5,7 @@
 
 /* HEADER */
 .titles  {
-	font: normal normal normal 15px/1.4em raleway,sans-serif;
+	font-family: 'Raleway', sans-serif;
 	color : #605E5E;
 }
 .fa-map-marker {
@@ -21,7 +21,7 @@ header {
 .number {
 	color:#0db26b;
 	font-size: 26px;
-	font: normal normal normal 34px/1.4em raleway,sans-serif;
+	font-family: 'Raleway', sans-serif;
 
 }
 
@@ -36,7 +36,7 @@ li {
 	margin-left: 35px;
 }
 a {
-	font-size: 22px;
+	font-size: 18px;
 }
 
 /* JUMBOTRON */
