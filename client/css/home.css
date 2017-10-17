@@ -1,86 +1,8 @@
-.container-fluid {
-	
-	padding: 0;
-}
-
-/* HEADER */
-.titles  {
-	font: normal normal normal 15px/1.4em raleway,sans-serif;
-	color : #605E5E;
-}
-
-
-header {
-	background-color: #f2f2f2;
-	padding: 10px;
-}
-
-.number {
-	color:#0db26b;
-	font-size: 26px;
-}
-
-.fa-map-marker {
-	color:#0db26b;
-}
-
-/* NAVBAR */
-.navbar-light {
-	background-color: white;
-	padding: 0px;
-
-}
-
-li {
-	margin-left: 35px;
-	font-size: 18px;
-}
-
-}
-/* JUMBOTRON */
-.jumbotron {
-	background-color: #72cba3 !important;
-	color: white;
-	padding: 30px;
-}
-
-.jumbotron-fluid {
-	background-color: #72cba3 !important;
-}
-
-/* FOOTER */ 
-footer {
-	background-color: #72cba3;
-	padding: 2%;
-	color: white;
-	font-family: 'Raleway', sans-serif;
-	font-size: 100%;
-}
-
-.telefono {
-	font-size: 150%;
-}
-
-.contenedor-derecho {
-	padding-top: 1%;
-}
-
-.facebook:hover {
-	text-decoration: none;
-	color: #F2F2F2;
-}
-
-.facebook {
-	text-decoration: none;
-	color: white;
-}
-
 * {box-sizing:border-box}
 
 /* Slideshow container */
 .slideshow-container {
   max-height: 68vh;
-  position: relative;
 }
 
 .animate-left{
@@ -100,11 +22,15 @@ footer {
   height: 100vh;
 }
 
+.slides-boxes {
+	min-height: 32vh;
+}
+
 .boxes {
   background-color: rgba(11,145,87,.7);
   margin: 5px;
   padding: 10px;
-  height: 175px;
+  min-height: 25vh;
 }
 
 body {
@@ -118,7 +44,6 @@ body {
 }
 
 .solicitud-cita {
-	padding: 20px;
 	background-image: url('../img/bgSolicitudCita.png') !important;
 	background-repeat: no-repeat !important;
 	background-size: 100% 100% !important;
@@ -170,6 +95,7 @@ button {
 	background-color:  #f2f2f2;
 	color: #7A7A7A;
 	padding: 10px;
+	height: 50vh;
 }
 
 .title-boletin {
@@ -202,7 +128,7 @@ form {
 
 select {
 	color: #7A7A7A;
-	width: 15vw;
+	width: 11vw;
 	margin-bottom: 80px;
 }
 
@@ -212,7 +138,7 @@ input {
 }
 
 .phone {
-	width: 16vw;
+	width: 17vw;
 }
 
 
