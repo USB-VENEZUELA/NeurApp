@@ -96,11 +96,22 @@ footer {
   height: 100vh;
 }
 
+@media only screen and (max-width: 360px) {
+    .img-slide {
+        width: 100%; /* to make the image responsive */
+    	height: auto;
+    }
+
+    .boxes {
+    	height: auto;
+    }
+}
+
 .boxes {
   background-color: rgba(11,145,87,.7);
   margin: 5px;
   padding: 10px;
-  height: 175px;
+  min-height: 175px;
 }
 
 body {
@@ -191,24 +202,24 @@ form {
 }
 
 .btn-boletin {
-	width: 12vw;
+	width: 100%;
 	margin-top: 0px;
 	margin-bottom: 80px;
 }
 
 select {
 	color: #7A7A7A;
-	width: 15vw;
+	width: 100%;
 	margin-bottom: 80px;
 }
 
 input {
-	width: 14vw;
+	width: 100%;
 	margin-bottom: 80px;
 }
 
 .phone {
-	width: 16vw;
+	width: 100%;
 }
 
 
