@@ -10,7 +10,7 @@
 }
 
 .card-img-top {
-	padding: 20px;
+	padding: 10px;
 }
 
 .card-title {
@@ -19,7 +19,8 @@
 }
 
 .card-img-top {
-	padding: 8px;
+
+
 }
 .card-img-top:hover {
 	opacity: 0.35 ;
