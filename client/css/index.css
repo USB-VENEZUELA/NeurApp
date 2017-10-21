@@ -1,5 +1,4 @@
 .container-fluid {
-	
 	padding: 0;
 }
 
@@ -103,7 +102,7 @@ footer {
 @media only screen and (max-width: 360px) {
     .img-slide {
         width: 100%; /* to make the image responsive */
-    	height: auto;
+    	height: 40vh;
     }
 
     .boxes {
@@ -178,9 +177,9 @@ button {
 }
 
 .boletin {
-	background-color:  #f2f2f2;
+	background-color: #f2f2f2;
 	color: #7A7A7A;
-	padding: 10px;
+	height: auto;
 }
 
 .title-boletin {
@@ -208,18 +207,18 @@ form {
 .btn-boletin {
 	width: 100%;
 	margin-top: 0px;
-	margin-bottom: 80px;
+	/*margin-bottom: 80px;*/
 }
 
 select {
 	color: #7A7A7A;
 	width: 100%;
-	margin-bottom: 80px;
+	/*margin-bottom: 80px;*/
 }
 
 input {
 	width: 100%;
-	margin-bottom: 80px;
+	/*margin-bottom: 80px;*/
 }
 
 .phone {
