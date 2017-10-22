@@ -1,3 +1,4 @@
+
 .title {
 	color:#0db26b;
 }
@@ -15,4 +16,9 @@
 
 .jumbotron {
 	background-color: #72cba3;
+}
+
+.btn-neurofeedback {
+	width: 100%;
+	margin-bottom: 30px;
 }

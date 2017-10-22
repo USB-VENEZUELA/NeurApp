@@ -1,10 +1,14 @@
 
 
 #map {
-	height: 400px;
+	height: 800px;
 	width: 100%;
  }
 
  .jumbotron {
  	background-color: #72cba3;
+ }
+
+ .form-group {
+ 	z-index: 2;
  }
