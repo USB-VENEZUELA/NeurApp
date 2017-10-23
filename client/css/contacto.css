@@ -5,10 +5,33 @@
 	width: 100%;
  }
 
- .jumbotron {
+.jumbotron {
  	background-color: #72cba3;
  }
 
- .form-group {
- 	z-index: 2;
+#information1 {
+ 	color: black;
+ 	padding: 0;
  }
+#information2 {
+ 	color: black;
+ 	padding: 0;
+ }
+#information3 {
+ 	color: black;
+ 	padding: 0;
+ }
+
+
+
+form {
+	margin: 0;
+	color: black;
+
+ }
+
+.form-control {
+	border-style: solid;
+	border-color: #00b2ad;
+	border-width: 4px;
+}
