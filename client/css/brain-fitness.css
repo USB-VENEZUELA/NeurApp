@@ -41,3 +41,9 @@ body {
 .text-justify {
 	color: #605E5E;
 }
+
+.jumbotron {
+	background-color: #72cba3;
+	
+	padding: 25px;
+}

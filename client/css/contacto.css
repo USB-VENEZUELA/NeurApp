@@ -6,9 +6,10 @@
  }
 
 .jumbotron {
- 	background-color: #72cba3;
- }
-
+	background-color: #72cba3;
+	
+	padding: 25px;
+}
 #information1 {
  	color: black;
  	padding: 0;
